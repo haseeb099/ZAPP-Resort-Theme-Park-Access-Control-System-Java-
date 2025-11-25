@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MyTester
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyTester\ here.\r\n\ \r\n\ @author\ Muhammad\ Haseeb\r\n\ @version\ 1.1\ \r\n
+comment1.params=
+comment1.target=void\ doTest()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=fantasia
+comment2.target=void\ testCardDetails(ZAPP)
+comment3.params=fantasia
+comment3.target=void\ testCardLocation(ZAPP)
+comment4.params=fantasia
+comment4.target=void\ testAllCardsInOneArea(ZAPP)
+comment5.params=fantasia
+comment5.target=void\ testAllCardsInAllAreas(ZAPP)
+comment6.params=fantasia
+comment6.target=void\ testCanMove(ZAPP)
+comment7.params=fantasia
+comment7.target=void\ testMove(ZAPP)
+comment8.params=fantasia
+comment8.target=void\ testTopUpCredits(ZAPP)
+comment9.params=fantasia
+comment9.target=void\ testConvertPoints(ZAPP)
+numComments=11

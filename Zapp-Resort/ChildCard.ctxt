@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ChildCard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ChildCard\ here.\r\n\r\n\ @author\ Muhammad\ Haseeb\r\n\ @version\ 1.1\r\n
+comment1.params=cardId\ guestName\ parentCardNumber
+comment1.target=ChildCard(int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getParentCardNumber()
+comment3.params=
+comment3.target=int\ getZonesVisited()
+numComments=4

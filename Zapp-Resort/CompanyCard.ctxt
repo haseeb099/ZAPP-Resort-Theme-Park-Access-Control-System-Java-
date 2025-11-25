@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CompanyCard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CompanyCard\ here.\r\n\r\n\ @author\ Muhammad\ Haseeb\r\n\ @version\ 1.1\r\n
+comment1.params=cardId\ guestName\ luxuryRating\ organizationName
+comment1.target=CompanyCard(int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getOrganizationName()
+comment3.params=
+comment3.target=void\ useBridge()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

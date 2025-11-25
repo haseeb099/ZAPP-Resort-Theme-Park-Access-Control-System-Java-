@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\BlueJ317\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\BlueJ317\lib\bluejcore.jar;C:\BlueJ317\lib\junit-4.8.2.jar;C:\BlueJ317\lib\userlib\pi4j-core.jar;C:\BlueJ317\lib\userlib\pi4j-device.jar;C:\BlueJ317\lib\userlib\pi4j-gpio-extension.jar;C:\BlueJ317\lib\userlib\pi4j-service.jar;D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution
+-d
+D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\BlueJ317\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\RAPP.java
+<---- end of javadoc command ---->
+Loading source file D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\RAPP.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_40
+Building tree for all the packages and classes...
+Generating D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\doc\RAPP.html...
+D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\RAPP.java:30: warning - @param argument "ccd" is not a parameter name.
+D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\RAPP.java:38: warning - @param argument "name" is not a parameter name.
+Generating D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\doc\package-frame.html...
+Generating D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\doc\package-summary.html...
+Generating D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\doc\allclasses-frame.html...
+Generating D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\doc\allclasses-noframe.html...
+Generating D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\doc\index.html...
+Generating D:\7COM1015 PPD\Assessment 21_22\RefDef Cwk RAPP\rapp-solution\doc\stylesheet.css...
+2 warnings
